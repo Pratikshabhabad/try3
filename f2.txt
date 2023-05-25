@@ -1,0 +1,20 @@
+you required git bash ;
+create new repository on github
+open folder
+open terminal in vs
+1-mkdir project
+2-cd project
+3-git --version
+4-create file in project
+5-git init
+6-git add .       //adding all files . is used
+7- git status    //checking status
+8-git remote add origin "url of git"
+9-git commit -m "commit"
+10-git status
+11-git push -u origin master   //push code to github
+12- create another file inthat folder
+13-git status
+14- command is below for comiting that
+15- git commit -m "2commit"
+16-git push -u origin master
